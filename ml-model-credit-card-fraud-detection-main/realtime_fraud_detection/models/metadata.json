@@ -1,0 +1,15 @@
+{
+  "dataset_path": "C:\\Users\\yhing\\Desktop\\archive (4)\\creditcard.csv",
+  "is_synthetic": false,
+  "total_records": 284807,
+  "fraud_count": 492,
+  "legit_count": 284315,
+  "fraud_rate_pct": 0.1727485630620034,
+  "test_size": 56962,
+  "test_fraud_count": 98,
+  "sla_max_latency_ms": 150.0,
+  "specificity_target": 0.999,
+  "brier_score_target": 0.0005,
+  "catboost_available": true,
+  "timestamp": "2026-09-28 00:48:18"
+}
